@@ -1,1 +1,4 @@
 Este seria el archivo txt para la primera parte:
+
+
+esto está escrito en el commit 2 y dará conflicto
